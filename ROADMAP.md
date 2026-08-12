@@ -53,6 +53,12 @@ que a mano toma tiempo y causa errores costosos en obra. Todo lo demás
   backend y privacidad; solo como modo Pro opcional y con confirmación
   obligatoria del usuario antes de cubicar.
 
+## Pendiente condicional: política de privacidad
+
+- No necesaria hoy: la app no recopila datos, no pide permisos ni usa internet.
+- Se activa obligatoriamente el día que se integren anuncios (AdMob) o
+  analítica: crear política de privacidad + banner de consentimiento UMP.
+
 ## Notas técnicas
 
 - Ratios y % de desperdicio son editables por el usuario (pestaña Ajustes).
